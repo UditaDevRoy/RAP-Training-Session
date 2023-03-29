@@ -1,0 +1,5 @@
+CLASS zbp_i_sord_vendor_udr DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_sord_vendor_udr.
+ENDCLASS.
+
+CLASS zbp_i_sord_vendor_udr IMPLEMENTATION.
+ENDCLASS.

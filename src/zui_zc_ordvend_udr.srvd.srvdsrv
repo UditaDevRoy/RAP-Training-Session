@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Vendor Portal App'
+define service ZUI_ZC_ORDVEND_UDR {
+  expose ZI_SORD_VENDOR_UDR as Vendor;
+}
